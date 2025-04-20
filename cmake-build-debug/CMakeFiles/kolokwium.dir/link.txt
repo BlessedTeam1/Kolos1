@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/kolokwium.dir/src/main.cpp.o CMakeFiles/kolokwium.dir/src/Galaxy.cpp.o CMakeFiles/kolokwium.dir/src/Fighter.cpp.o CMakeFiles/kolokwium.dir/src/Interceptor.cpp.o CMakeFiles/kolokwium.dir/src/Spacecraft.cpp.o -o kolokwium 

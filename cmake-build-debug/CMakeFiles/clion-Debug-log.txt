@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S "/mnt/c/Users/hamon/Downloads/przykladowe-kolokwium-start (1)/przykladowe-kolokwium-start" -B "/mnt/c/Users/hamon/Downloads/przykladowe-kolokwium-start (1)/przykladowe-kolokwium-start/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.2s)
+-- Build files have been written to: /mnt/c/Users/hamon/Downloads/przykladowe-kolokwium-start (1)/przykladowe-kolokwium-start/cmake-build-debug

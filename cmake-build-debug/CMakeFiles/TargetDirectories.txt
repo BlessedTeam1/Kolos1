@@ -1,0 +1,7 @@
+/mnt/c/Users/hamon/Downloads/przykladowe-kolokwium-start (1)/przykladowe-kolokwium-start/cmake-build-debug/CMakeFiles/kolokwium.dir
+/mnt/c/Users/hamon/Downloads/przykladowe-kolokwium-start (1)/przykladowe-kolokwium-start/cmake-build-debug/CMakeFiles/check.dir
+/mnt/c/Users/hamon/Downloads/przykladowe-kolokwium-start (1)/przykladowe-kolokwium-start/cmake-build-debug/CMakeFiles/nauczyciel_tester.dir
+/mnt/c/Users/hamon/Downloads/przykladowe-kolokwium-start (1)/przykladowe-kolokwium-start/cmake-build-debug/CMakeFiles/student_tester.dir
+/mnt/c/Users/hamon/Downloads/przykladowe-kolokwium-start (1)/przykladowe-kolokwium-start/cmake-build-debug/CMakeFiles/test.dir
+/mnt/c/Users/hamon/Downloads/przykladowe-kolokwium-start (1)/przykladowe-kolokwium-start/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/hamon/Downloads/przykladowe-kolokwium-start (1)/przykladowe-kolokwium-start/cmake-build-debug/CMakeFiles/rebuild_cache.dir

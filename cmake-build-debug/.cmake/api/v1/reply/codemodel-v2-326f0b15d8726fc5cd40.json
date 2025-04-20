@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kolokwium",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "check::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check-Debug-5e9f00ed796d01603fca.json",
+					"name" : "check",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokwium::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokwium-Debug-1ce3399f25a261c4f26f.json",
+					"name" : "kolokwium",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nauczyciel_tester::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nauczyciel_tester-Debug-cc052eaf89c2d5d12921.json",
+					"name" : "nauczyciel_tester",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "student_tester::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-student_tester-Debug-b4724c754a2a9bab32e4.json",
+					"name" : "student_tester",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/hamon/Downloads/przykladowe-kolokwium-start (1)/przykladowe-kolokwium-start/cmake-build-debug",
+		"source" : "/mnt/c/Users/hamon/Downloads/przykladowe-kolokwium-start (1)/przykladowe-kolokwium-start"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
